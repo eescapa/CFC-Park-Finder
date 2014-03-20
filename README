@@ -1,0 +1,35 @@
+#------------------------------------------------------------#
+# cfc-park-finder: Prince George's County Mobile Park Finder #
+#------------------------------------------------------------#
+
+Description
+-----------
+cfc-park-finder is the mobile version of the Prince George's County Department 
+of Parks and Recreation's Park Finder web application. 
+
+It was written by a team of undergraduate students for the University of 
+Maryland Code for Community Challenge. 
+
+Release
+-------
+This directory contains the version 1.0 release of the Prince George's County 
+Mobile Park Finder. This was the version submitted to the Code for Community 
+Challenge for judging (April, 2013). 
+
+Installation
+------------
+This web application is entirely self-contained, and requires no compilation or
+dependencies. Simply upload this directory onto the web server where the 
+application will be hosted. 
+
+Authors
+-------
+This application was designed and developed by:
+ * Elisa Escapa - Junior, Communications
+ * Neelnavo Kar - Sophomore, Mathematics & Computer Science
+ * Joan Zhang - Sophomore, Bioengineering
+
+Resources
+---------
+To obtain downloads, report issues, and get support, visit the project's Google
+Code page at https://code.google.com/p/cfc-park-finder/
