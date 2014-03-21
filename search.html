@@ -1,0 +1,278 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset=utf-8>
+
+		<title>Search</title>
+
+		<link rel="stylesheet" type="text/css" href="style/general.css" />
+		<link rel="stylesheet" type="text/css" href="style/search.css" />
+
+		<!-- disables zooming -->
+		<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+		<script src="scripts/jquery.scrollTo-1.4.3.1-min.js" type="text/javascript"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=true"></script>
+		<script src="scripts/general.js" type="text/javascript"></script>
+		<script src="scripts/expandable.js" type="text/javascript"></script>
+		<script src="scripts/search.js" type="text/javascript"> </script>
+
+		<script>
+			window.onload=function() {
+				var form = document.getElementById('search_form');
+				if (form.attachEvent) {
+					form.attachEvent("submit", processForm);
+					} else {
+					form.addEventListener("submit", processForm);
+				}
+			}
+		</script>
+
+	</head>
+	<body>
+		<div id="header_banner">Prince George's County Community Centers</div>
+
+		<div class="page">
+
+			<!-- Navigation Menu -->
+			<div class="nav_menu">
+
+				<ul id="menu_ul">
+					<li class="f-left">
+					<a href="index.html">Home</a>
+					</li>
+
+					<li class="f-right">
+					<a href="search.html">Search</a>
+					</li>
+				</ul>
+			</div> <!-- end nav_menu -->
+
+			<div class="body_wrap">
+
+				<!-- Content -->
+				<div class="content">
+
+					<!-- Description -->
+					<p class="descr_div">
+					Are you looking for a nearby community center or one with a specific feature? 
+					Select as many options as you would like below, and click "Search" to display the nearest community centers with those features. 
+					</p>
+
+					<form id="search_form" name="main" action="" method="post" >
+
+						<!--Location entry-->
+						<h1>Location</h1>
+						<div id="loc_div">
+							<p>Enter an address to search near, or check the box to search near your current location instead. </p>
+							<div id="addr_div"><label for="address">Address: </label><span><input type="text" name="address" id="address" class="loc_entry" value="" /></span></div>
+							<label for="geolocation"><input type="checkbox" name="geolocation" id="geolocation" class="loc_entry" onchange="toggleGeolocation(); return false" />Search near my current location. </label>
+						</div>
+
+						<!--Amenity options entry-->
+						<h1>Amenities</h1>
+						<ul id="amen_exp_list" class="open">
+							<li id="athletics_li" class="closed">
+							<label class="category" onclick="toggle($(this).parent());">Athletics</label>
+
+							<ul id="ul_item1" class="collapsible">
+
+								<li>
+								<label><input type="checkbox" id="baseDia_chk" value="Baseball Diamond; Baseball Diamond, Lighted" name="BaseballDiamond" />Baseball Diamond</label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="bask_chk" value="Basketball, Half Court; Basketball, Full Court; Basketball, Full Court, Lighted" name="Gymnasium" />Basketball Court</label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="cricket_chk" value="Cricket" name="Cricket" />Cricket </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="fitnessRoom_chk" value="Fitness Room" name="FitnessRoom" />Fitness Room </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="fitnessCluster_chk" value="Fitness Cluster" name="FitnessCluster" />Fitness Cluster </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="foot_chk" value="Football Field; Football Field, Lighted" name="FootballField" />Football Field</label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="footSoc_chk" value="Football/Soccer Combination Field; Football/Soccer Combination Field, Lighted" name="FootballSoccerCombinationField" />Football/Soccer Combination Field </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="soccer_chk" value="Regulation Soccer Field; Youth Soccer Field" name="SoccerField" />Soccer Field </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="golf_chk" value="Golf Practice Range; Golf, Driving Range; Golf, Putting Green" name="Golf" />Golf </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="gym_chk" value="Gymnasium" name="Gymnasium" />Gymnasium </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="tennis_chk" value="Outdoor Tennis Court; Outdoor Tennis Court, Lighted" name="OutdoorTennisCourt" />Outdoor Tennis Court </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="poolIn_chk" value="Pool, Indoor" name="PoolIndoor" />Pool, Indoor </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="racquet_chk" value="Racquetball Court" name="Racquetball" />Racquetball Court </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="softDia_chk" value="Softball Diamond; Softball Diamond, Lighted; Softball W/ Football Soccer Overlay" name="SoftballDiamond" />Softball Diamond </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="volley_chk" value="Volleyball Court, Sand" name="Volleyball" />Volleyball Court, Sand </label>
+								</li>
+
+							</ul>
+							</li>
+
+
+							<li id="outdoor_li" class="closed">
+							<label class="category" onclick="toggle($(this).parent());">Outdoor Leisure</label>
+							<ul id="ul_item2" class="collapsible">
+								<li>
+								<label><input type="checkbox" id="campfire_chk" value="Campfire Circle" name="CampfireCircle" />Campfire Circle </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="horseshoe_chk" value="Horseshoe Pit" name="HorseshoePit" />Horseshoe Pit </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="lakepond_chk" value="Lake/Pond; Lake/Pond, Recreational; Lake/Pond, Storm Water Management" name="LakePond" />Lake/Pond </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="memorial_chk" value="Memorial Site" name="MemorialSite" />Memorial Site </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="pavilion_chk" value="Pavilion" name="Pavilion" />Pavilion </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="picnic_chk" value="Picnic Area; Picnic Shelter" name="PicnicAreaShelter" />Picnic Area/Shelter </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="playfield_chk" value="Playfield" name="Playfield" />Playfield </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="playground_chk" value="Playground" name="Playground" />Playground </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="trails_chk" value="Trails; Natural Surface Trail; Equestrian Trail" name="Trails" />Trails </label>
+								</li>
+
+							</ul>
+							</li>
+
+
+							<li id="indoor_li" class="closed">
+							<label class="category" onclick="toggle($(this).parent());">Indoor Resources</label>
+							<ul id="ul_item3" class="collapsible">
+								<li>
+								<label><input type="checkbox" id="artsCrafts_chk" value="Art Gallery; Art Studio; Arts and Crafts Room" name="ArtsandCrafts" />Arts and Crafts</label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="classroom_chk" value="Classroom" name="Classroom" />Classroom </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="compLab_chk" value="Computer Lab; Computer Lab (Mobile)" name="ComputerLab" />Computer Lab </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="danceRooms_chk" value="Dance Rooms" name="DanceRooms" />Dance Rooms </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="daycare_chk" value="Day Care Room" name="DayCareRoom" />Day Care Room </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="gameRoom_chk" value="Game Room" name="GameRoom" />Game Room </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="kitchen_chk" value="Kitchen" name="Kitchen" />Kitchen </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="lounge_chk" value="Lounge" name="Lounge" />Lounge </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="meetingRooms_chk" value="Meeting Rooms" name="MeetingRooms" />Meeting Rooms </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="MPR_chk" value="Multi-Purpose Room" name="MultiPurposeRoom" />Multi-Purpose Room </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="musicRoom_chk" value="Music Room" />Music Room </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="preschoolRoom_chk" value="Pre-School Room" name="PreSchoolRoom" />Pre-School Room </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="rentalFacility_chk" value="Rental Facility" name="RentalFacility" />Rental Facility </label>
+								</li>
+
+								<li>
+								<label><input type="checkbox" id="seniorActivities_chk" value="Senior Activity Center" name="SeniorActivityCenter" />Senior Activity Center </label>
+								</li>
+							</ul>
+							</li>
+						</ul>                       
+
+						<input type="reset" />
+						<input type="submit" value=" Search " />
+
+					</form>	
+
+
+					<h1 id="results_h1">Results</h1>
+
+					<div class="wrap">
+						<div id="error_msgs"></div>    		  		
+						<div id="results"></div>    		  		
+					</div>
+
+				</div> <!-- end content -->
+
+			</div> <!-- end body_wrap -->
+
+			<div id="blankspace">&nbsp;</div>
+		</div> <!-- end page -->
+
+
+		<!-- Footer -->
+		<div class="footer">
+			<br /><a href="about.html">About/Contact</a>
+		</div> <!-- end footer -->
+
+	</body>
+</html>

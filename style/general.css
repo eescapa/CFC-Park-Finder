@@ -1,0 +1,308 @@
+@viewport {
+	width: device-width;
+}
+
+html, body {height: 100%;}
+
+body {
+	margin: 0;
+	width:100%;
+	
+	background-color:#f7ffff;
+	
+	font: normal 100% Verdana, Geneva, sans-serif;
+	-webkit-text-size-adjust: none;
+}
+
+* {box-sizing: border-box;} /* Correct padding */
+
+li { list-style-type:none; }
+a { text-decoration:none; color:#004771; }
+a:hover { color:#9dabce; }
+a:visited { color:#004771 }
+a:visited:hover { color:#9dabce; }
+
+.page {
+	padding:0 3%;
+	width:100%;
+	clear:both;
+	
+	/* Sticky Footer code from http://ryanfait.com/sticky-footer/ */ 
+	min-height: 100%;
+	height: auto !important; /* For IE */
+	height: 100%; /* For IE */
+	margin-bottom: -3em; /* the bottom margin is the negative value of the footer's height */
+}
+
+/*******************************/
+/************ Header Banner ***********/
+/*******************************/
+
+#header_banner {
+	width:100%;
+	height:2.375em; /* 38px/16 */
+	padding:1%;
+	
+	vertical-align:absbottom; 
+	display:block;
+	margin:auto;
+	
+	text-align:center;
+	color:white;
+	text-shadow: 2px 2px 2px #000;
+	font-size:1.5625em; /* 25px/16 */
+	font-family: Verdana, Geneva, sans-serif;
+	
+	
+	
+	/*** Background color gradient from #398878
+	From http://ie.microsoft.com/testdrive/graphics/cssgradientbackgroundmaker/ ***/
+	
+	/* IE10 Consumer Preview */ 
+	background-image: -ms-linear-gradient(bottom, #183831 0%, #398878 100%);
+
+	/* Mozilla Firefox */ 
+	background-image: -moz-linear-gradient(bottom, #183831 0%, #398878 100%);
+
+	/* Opera */ 
+	background-image: -o-linear-gradient(bottom, #183831 0%, #398878 100%);
+
+	/* Webkit (Safari/Chrome 10) */ 
+	background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #183831), color-stop(1, #398878));
+
+	/* Webkit (Chrome 11+) */ 
+	background-image: -webkit-linear-gradient(bottom, #183831 0%, #398878 100%);
+
+	/* W3C Markup, IE10 Release Preview */ 
+	background-image: linear-gradient(to top, #183831 0%, #398878 100%);
+}
+
+
+/*******************************/
+/********* Navigation Menu ********/
+/*******************************/
+
+.nav_menu {
+	vertical-align:absbottom; 
+	width:60%; /* of page */
+	display:block;
+	margin:auto;
+}
+
+#menu_ul {
+	margin:4% 0; /* Above and beneath navigation bar */
+	padding: 3% 5%;
+	width:100%; /* of nav_menu */
+
+	text-align:center;
+	text-shadow: 2px 2px 2px #000;
+}
+
+
+#menu_ul li { /* for unselected menu options */
+	padding:8px 0.875em;  /* 8px set height, 14px/16 for width */
+	margin-left:3%;
+	display:inline;
+	
+	border:2px solid #879bb7;
+	-moz-border-radius: 10px; 
+	border-radius: 10px;
+	
+	/*** Background color gradient from #2f4b71
+	From http://ie.microsoft.com/testdrive/graphics/cssgradientbackgroundmaker/ ***/
+	
+	/* IE10 Consumer Preview */ 
+	background-image: -ms-linear-gradient(top, #5A90D9 0%, #2F4B71 100%);
+
+	/* Mozilla Firefox */ 
+	background-image: -moz-linear-gradient(top, #5A90D9 0%, #2F4B71 100%);
+
+	/* Opera */ 
+	background-image: -o-linear-gradient(top, #5A90D9 0%, #2F4B71 100%);
+
+	/* Webkit (Safari/Chrome 10) */ 
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #5A90D9), color-stop(1, #2F4B71));
+
+	/* Webkit (Chrome 11+) */ 
+	background-image: -webkit-linear-gradient(top, #5A90D9 0%, #2F4B71 100%);
+
+	/* W3C Markup, IE10 Release Preview */ 
+	background-image: linear-gradient(to bottom, #5A90D9 0%, #2F4B71 100%);
+	
+}
+
+#menu_ul li:hover, a:active {
+	
+	/* IE10 Consumer Preview */ 
+	background-image: -ms-linear-gradient(bottom, #2F4B71 0%, #4671AB 100%);
+
+	/* Mozilla Firefox */ 
+	background-image: -moz-linear-gradient(bottom, #2F4B71 0%, #4671AB 100%);
+
+	/* Opera */ 
+	background-image: -o-linear-gradient(bottom, #2F4B71 0%, #4671AB 100%);
+
+	/* Webkit (Safari/Chrome 10) */ 
+	background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #2F4B71), color-stop(1, #4671AB));
+
+	/* Webkit (Chrome 11+) */ 
+	background-image: -webkit-linear-gradient(bottom, #2F4B71 0%, #4671AB 100%);
+
+	/* W3C Markup, IE10 Release Preview */ 
+	background-image: linear-gradient(to top, #2F4B71 0%, #4671AB 100%);
+	
+}
+
+#menu_ul li a {
+	color:white;
+	padding:8px 14px;
+	text-transform:uppercase;
+	width:inherit;
+}
+
+
+/*******************************/
+/************ Content ***********/
+/*******************************/
+
+.content {
+	vertical-align:absbottom; 
+	display:inline;
+	position:relative;
+	width: 100%;
+
+   	margin: 0 auto;
+   	
+   	overflow:auto;
+   	padding-bottom:3em; /* height of Footer */
+}
+
+
+
+h1 {
+	/*font-family: Georgia, Times, "Times New Roman", serif;*/
+	color: #096a55;
+	font-size: 156.25%; /* 25px/16 */
+}
+
+h2 {
+	/* font-family: Georgia, Times, "Times New Roman", serif;*/
+	color: #375987;
+	font-size: 112.5%; /* 18px/16 */
+}
+
+.descr_div {
+	margin:auto;
+	width:75%;
+	padding:2%;
+	
+	background-color:#deebe8;
+	-moz-border-radius: 10px; 
+	border-radius: 10px;
+}
+
+.wrap {
+	margin-left:1.7%;
+	margin-bottom:4%;
+}
+
+
+/*******************************/
+/************ Map ***********/
+/*******************************/
+
+#map_div {
+	width: 75%;
+	height: 35em;	
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom:4%;
+	
+	font-size:small;
+}
+
+
+/*******************************/
+/************ Footer ***********/
+/*******************************/
+
+/* Sticky Footer code from http://ryanfait.com/sticky-footer/ */
+
+#blankspace, .footer {
+	/* #blankspace stops footer from overflowing into .content */
+	
+	height: 3em;
+}
+
+.footer {
+	width:100%;
+	clear:both;
+	
+	background:#404040;
+	font-family: Palatino, "Book Antiqua", serif;
+	letter-spacing:1.3px;
+} 
+
+.footer a {
+	color:white;
+	
+	display:inline;
+	margin-left:0.7%;
+}
+
+.footer a:visited {
+	color:white;
+}
+
+
+
+/****************************************************************************************/
+/******************************** Media Types *******************************************/
+/****************************************************************************************/
+
+@media screen and (max-width: 50em) { /* screens less than 800px width wide */
+	
+	body {
+		max-width:50em;
+	}
+	
+	.page {
+		width: device-width;
+		padding:0 1%; /* Reduce blank space on either side of the page */
+	}
+	
+		
+	/************ Header ***********/
+	/*******************************/
+	
+	#header_banner {
+		height:3em; /* 48px/16 */
+	}
+	
+	.nav_menu {
+		width:100%; /* of page as opposed to 60% */
+		/* also vertical-align:absbottom; display:block; margin:auto; */
+	}
+	
+	#menu_ul {
+		padding: 3% 0; /* as opposed to padding: 3% 5%; */
+		
+		/* also margin: 4% 0; width:100%; text-align:center; text-shadow */
+	}
+	
+
+
+	/************ Content ***********/
+	/*******************************/
+	
+	.content {
+		vertical-align:absbottom; 
+		display:inline;
+		width: 100%;
+	
+		margin: 0 auto;
+	
+	}
+
+}

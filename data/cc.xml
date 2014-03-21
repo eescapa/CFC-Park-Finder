@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Park>
+		<Park_ID>R58</Park_ID>
+		<Park_Name>Baden Community Center</Park_Name>
+		<Phone>301-888-1500</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 2-10 pm</Time>
+			<Time>Fridays: 2-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-2 pm; Xtreme Teens 7 pm-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>13601 BADEN-WESTWOOD ROAD</Address>
+		<City>BRANDYWINE</City>
+		<Zip>20613</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Baden_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Game Room</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Classroom</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.6967833</Latitude><Longitude>-76.84774849999997</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>M62</Park_ID>
+		<Park_Name>Beltsville Community Center Park</Park_Name>
+		<Phone>301-937-6613</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 9 am-9 pm</Time>
+			<Time>Fridays: 9 am-7 pm; Xtreme Teens only: 7-10 pm </Time>
+			<Time>Saturdays: 9 am-4 pm, Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>3900 SELLMAN RD.</Address>
+		<City>BELTSVILLE</City>
+		<Zip>20705</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Beltsville_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Football/Soccer Combination Field, Lighted</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Outdoor Tennis Court, Lighted</Amenity> <Amenity>Baseball Diamond, Lighted</Amenity> <Amenity>Softball Diamond, Lighted</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground, Horseshoe Pit, Natural Surface Trail, Picnic Area, Equestrian Trail</Amenity> <Amenity>Campfire Circle</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Arts and Crafts Room</Amenity> <Amenity>Meeting Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>39.034248</Latitude><Longitude>-76.92999900000001</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>N75</Park_ID>
+		<Park_Name>Berwyn Heights School Community Center Park</Park_Name>
+		<Phone>301-345-2808</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 9 am-12 noon, 3 pm-9 pm</Time>
+			<Time>Fridays: 9 am-12 noon, 3 pm-9 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-4 pm; Xtreme Teens only 7-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>6200 PONTIAC STREET</Address>
+		<City>BERWYN HEIGHTS</City>
+		<Zip>20740</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Berwyn_Heights_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Outdoor Tennis Court</Amenity> <Amenity>Basketball, Full Court</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Classroom</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.9914036</Latitude><Longitude>-76.90915989999996</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>N18</Park_ID>
+		<Park_Name>Bladensburg Community Center Park</Park_Name>
+		<Phone>301-277-2124</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 9 am-9 pm</Time>
+			<Time>Fridays: 9 am-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays:  9 am-5 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-4 pm</Time></Hours> 
+		<Address>4500 57TH AVENUE</Address>
+		<City>BLADENSBURG</City>
+		<Zip>20710</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Bladensburg_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Basketball, Full Court</Amenity> <Amenity>Gymnasium</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Arts and Crafts Room</Amenity> <Amenity>Dance Room</Amenity> <Amenity>Day Care Room</Amenity> <Amenity>Kitchen</Amenity> <Amenity>Lounge</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.943931</Latitude><Longitude>-76.91875800000003</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>O58</Park_ID>
+		<Park_Name>Bowie Community Center</Park_Name>
+		<Phone>301-464-1737</Phone> 
+		<Hours>
+			<Time>Mondays &amp; Wednesdays: 7 am-10 pm</Time>
+			<Time>Tuesdays &amp; Thursdays: 9 am-10 pm</Time>
+			<Time>Fridays: 7 am-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-5 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 11 am-3 pm</Time></Hours> 
+		<Address>3209 STONYBROOK DRIVE</Address>
+		<City>BOWIE</City>
+		<Zip>20715</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Bowie_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Multi-Purpose Room</Amenity> <Amenity>Dance Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.9773036</Latitude><Longitude>-76.73671530000001</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P44</Park_ID>
+		<Park_Name>Cedar Heights Community Center Park</Park_Name>
+		<Phone>301-773-8881</Phone> 
+		<Hours>
+			<Time>Mondays &amp; Wednesdays: 12 noon-9 pm</Time>
+			<Time>Tuesdays &amp; Thursdays: 9 am-9 pm</Time>
+			<Time>Fridays: 9 am-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-3 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>1200 GLEN WILLOW DRIVE</Address>
+		<City>SEAT PLEASANT</City>
+		<Zip>20743</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Cedar_Heights_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Outdoor Tennis Court, Lighted</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity> <Amenity>Picnic Area</Amenity> <Amenity>Lake/Pond, Storm Water Management</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab (Mobile)</Amenity> <Amenity>Classroom</Amenity> <Amenity>Dance Room</Amenity> <Amenity>Kitchen</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Pre School Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.8962231</Latitude><Longitude>-76.90663990000002</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>S64</Park_ID>
+		<Park_Name>College Park Community Center and Youth Soccer Complex</Park_Name>
+		<Phone>301-441-2647</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 9 am-10 pm</Time>
+			<Time>Fridays: 9 am-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-4 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-5 pm</Time></Hours> 
+		<Address>5051 PIERCE AVENUE</Address>
+		<City>COLLEGE PARK</City>
+		<Zip>20740</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/College_Park_Community_Center_and_Youth_Soccer_Complex.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Youth Soccer Field</Amenity> <Amenity>Gymnasium</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Computer Lab (Mobile)</Amenity> <Amenity>Kitchen</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.985907</Latitude><Longitude>-76.92871500000001</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>N57</Park_ID> 
+		<Park_Name>College Park Youth Services Center</Park_Name>
+		<Phone>301-345-4425</Phone> 
+		<Hours>
+			<Time>Mondays-Fridays: 2-6 pm</Time>
+			<Time>Saturdays: 9 am-1 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>4912 NANTUCKET ROAD</Address>
+		<City>COLLEGE PARK</City>
+		<Zip>20740</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/College_Park_Youth_Services_Center.htm</URL>
+		<Amenities>
+			<Indoor_Resources><Amenity>Kitchen</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Classroom</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.9896967</Latitude><Longitude>-76.93776000000003</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P65</Park_ID>
+		<Park_Name>Columbia Park Community Center Park</Park_Name>
+		<Phone>301-341-3749</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 2 pm-8 pm</Time>
+			<Time>Fridays: 2 pm-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 8 am-3 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 8 am-1 pm</Time></Hours> 
+		<Address>1901 KENT VILLAGE DRIVE</Address>
+		<City>LANDOVER</City>
+		<Zip>20785</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Columbia_Park_Elementary_School_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Classroom</Amenity> <Amenity>Multi-Purpose Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.9140455</Latitude><Longitude>-76.87786119999998</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>M58</Park_ID>
+		<Park_Name>Deerfield Run School Community Center</Park_Name>
+		<Phone>301-953-7882</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 2 pm-9 pm</Time>
+			<Time>Fridays: 2 pm-7 pm; Xtreme Teens only: 7-10 pm; </Time>
+			<Time>Saturdays: 9 am-3 pm; Xtreme Teens only: 7-10 pm; </Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>13000 LAUREL-BOWIE ROAD</Address>
+		<City>SOUTH LAUREL</City>
+		<Zip>20708</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Deerfield_Run_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Basketball, Full Court</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Classroom</Amenity> <Amenity>Music Room</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Pre-School Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>39.0712385</Latitude><Longitude>-76.84652619999997</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>Q43</Park_ID>
+		<Park_Name>Glassmanor Community Center Park</Park_Name>
+		<Phone>301-567-6033</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 1:30-9 pm</Time>
+			<Time>Fridays: 1:30-6 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-3 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-5 pm</Time></Hours> 
+		<Address>1101 MARCY AVENUE</Address>
+		<City>OXON HILL</City>
+		<Zip>20745</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Glassmanor_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Outdoor Tennis Court, Lighted</Amenity> <Amenity>Cricket</Amenity> <Amenity>Basketball, Full Court</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Softball W/ Football Soccer Overlay</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Trails</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Game Room</Amenity> <Amenity>Classroom</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.8167959</Latitude><Longitude>-76.98951999999997</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P61</Park_ID>
+		<Park_Name>Glenarden Community Center Park</Park_Name>
+		<Phone>301-772-3151</Phone> 
+		<Hours>
+			<Time>Mondays &amp; Wednesdays: 9 am-12 noon; 3-9 pm</Time>
+			<Time>Tuesdays &amp; Thursdays: 9 am-9 pm</Time>
+			<Time>Fridays: 9 am-noon; 3-9 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-4 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: Rentals Only</Time></Hours> 
+		<Address>8615 MCLAIN AVENUE</Address>
+		<City>GLENARDEN</City>
+		<Zip>20706</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Glenarden___Theresa_Banks_Complex.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Softball W/ Football Soccer Overlay, Lighted</Amenity> <Amenity>Basketball, Full Court, Lighted</Amenity> <Amenity>Pool, Indoor</Amenity> <Amenity>Outdoor Tennis Court, Lighted</Amenity> <Amenity>Gymnasium</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity> <Amenity>Picnic Area</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Dance Room</Amenity> <Amenity>Meeting Room</Amenity> <Amenity>Arts and Crafts Room</Amenity> <Amenity>Kitchen</Amenity> <Amenity>Multi-Purpose Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.9292782</Latitude><Longitude>-76.86163870000001</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P61</Park_ID>
+		<Park_Name>Glenarden Community Center Park</Park_Name>
+		<Phone>301-772-3151</Phone> 
+		<Hours>
+			<Time>Mondays &amp; Wednesdays: 9 am-12 noon; 3-9 pm</Time>
+			<Time>Tuesdays &amp; Thursdays: 9 am-9 pm</Time>
+			<Time>Fridays: 9 am-noon; 3-9 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-4 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: Rentals Only </Time></Hours> 
+		<Address>8615 MCLAIN AVENUE</Address>
+		<City>GLENARDEN</City>
+		<Zip>20706</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Glenarden___Theresa_Banks_Complex.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Softball W/ Football Soccer Overlay, Lighted</Amenity> <Amenity>Basketball, Full Court, Lighted</Amenity> <Amenity>Pool, Indoor</Amenity> <Amenity>Outdoor Tennis Court, Lighted</Amenity> <Amenity>Gymnasium</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity> <Amenity>Picnic Area</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Dance Room</Amenity> <Amenity>Meeting Room</Amenity> <Amenity>Arts and Crafts Room</Amenity> <Amenity>Kitchen</Amenity> <Amenity>Multi-Purpose Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.9292782</Latitude><Longitude>-76.86163870000001</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>O55</Park_ID>
+		<Park_Name>Glenn Dale Community Center Park</Park_Name>
+		<Phone>301-352-8983</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 7 am-10 pm</Time>
+			<Time>Fridays: 7 am-7 pm; Xtreme Teens only: 7-10 pm </Time>
+			<Time>Saturdays: 9 am-3 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-5 pm</Time></Hours> 
+		<Address>11901 GLENN DALE BLVD</Address>
+		<City>GLENN DALE</City>
+		<Zip>20769</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Glenn_Dale_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Lake/Pond</Amenity> <Amenity>Memorial Site</Amenity> <Amenity>Playfield</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Dance Room</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Classroom</Amenity> <Amenity>Arts and Crafts Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.9739776</Latitude><Longitude>-76.80089179999999</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>O64</Park_ID>
+		<Park_Name>Good Luck Community Center Park</Park_Name>
+		<Phone>301-552-1093</Phone> 
+		<Hours>
+			<Time>Mondays and Wednesdays: 9 am-9 pm</Time>
+			<Time>Tuesdays and Thursdays: 9 am-9:30 pm</Time>
+			<Time>Fridays: 9 am-7 pm; Xtreme Teens only: 7-10 pm; </Time>
+			<Time>Saturdays: 9 am-5 pm; Xtreme Teens only: 7-10 pm; </Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>8601 GOOD LUCK ROAD</Address>
+		<City>LANHAM</City>
+		<Zip>20706</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Good_Luck_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Outdoor Tennis Court</Amenity> <Amenity>Softball W/ Football Soccer Overlay</Amenity> <Amenity>Basketball, Full Court</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Picnic Shelter</Amenity> <Amenity>Picnic Area</Amenity> <Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Kitchen</Amenity> <Amenity>Dance Room</Amenity> <Amenity>Meeting Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.96851119999999</Latitude><Longitude>-76.86203269999999</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>Q96</Park_ID>
+		<Park_Name>Harmony Hall Community Center</Park_Name>
+		<Phone>301-203-6040</Phone> 
+		<Hours>
+			<Time>Mondays-Fridays: 7 am-10 pm</Time>
+			<Time>Saturdays: 9 am-4 pm</Time>
+			<Time>Sundays: 12 noon-4 pm</Time></Hours> 
+		<Address>10701 LIVINGSTON ROAD</Address>
+		<City>FORT WASHINGTON</City>
+		<Zip>20744</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Harmony_Hall_Regional_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playfield</Amenity> <Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Kitchen</Amenity> <Amenity>Meeting Room</Amenity> <Amenity>Classroom</Amenity> <Amenity>Multi-Purpose Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.743507</Latitude><Longitude>-77.00110699999999</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>Q77</Park_ID>
+		<Park_Name>Hillcrest Heights Community Center Park</Park_Name>
+		<Phone>301-505-0897</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 9 am-9 pm</Time>
+			<Time>Fridays: 9 am-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-5 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>2300 OXON RUN DRIVE</Address>
+		<City>TEMPLE HILLS</City>
+		<Zip>20748</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Hillcrest_Heights_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Outdoor Tennis Court</Amenity> <Amenity>Softball Diamond</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Picnic Shelter</Amenity> <Amenity>Picnic Area</Amenity> <Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Dance Room</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Game Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.8140024</Latitude><Longitude>-76.94552959999999</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>O69</Park_ID>
+		<Park_Name>Huntington Community Center</Park_Name>
+		<Phone>301-464-3725</Phone> 
+		<Hours>
+			<Time>Mondays: 7 am-7 pm; Xtreme Teens only: 7-9 pm </Time>
+			<Time>Tuesdays-Thursdays: 7 am-9 pm</Time>
+			<Time>Fridays: 9 am-7 pm; Xtreme Teens only: 7-10 pm </Time>
+			<Time>Saturdays: 9 am-3 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>13022 8TH STREET</Address>
+		<City>BOWIE</City>
+		<Zip>20715</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Huntington_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Basketball, Half Court</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Art Studio</Amenity> <Amenity>Art Gallery</Amenity> <Amenity>Classroom</Amenity> <Amenity>Game Room</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Meeting Room</Amenity> <Amenity>Computer Lab</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>39.009384</Latitude><Longitude>-76.77955800000001</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>Q57</Park_ID>
+		<Park_Name>Indian Queen Community Center</Park_Name>
+		<Phone>301-839-9597</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 2-9 pm</Time>
+			<Time>Fridays: 2-10 pm</Time>
+			<Time>Saturdays: 7 am-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>9551 FORT FOOTE ROAD</Address>
+		<City>FORT WASHINGTON</City>
+		<Zip>20744</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Indian_Queen_Recreation_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity></Outdoor_Leisure>
+		</Amenities>
+		<Coordinates><Latitude>38.758287</Latitude><Longitude>-77.01543900000001</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P66</Park_ID>
+		<Park_Name>John E. Howard Community Center Park</Park_Name>
+		<Phone>301-735-3340</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 3:30-9 pm</Time>
+			<Time>Fridays: 3:30-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 10 am-2 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>4400 SHELL STREET AND DEWITT AVENUE</Address>
+		<City>CAPITOL HEIGHTS</City>
+		<Zip>20743</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/John_E__Howard_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Softball W/ Football Soccer Overlay</Amenity> <Amenity>Outdoor Tennis Court</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Picnic Area</Amenity> <Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Multi-Purpose Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.8851122</Latitude><Longitude>-76.91580679999998</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P68</Park_ID>
+		<Park_Name>Kentland Community Center Park</Park_Name>
+		<Phone>301-386-2278</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 12 noon-8:30 pm</Time>
+			<Time>Fridays: 12 noon-7 pm; Xtreme Teens only: 7-10 pm </Time>
+			<Time>Saturdays: 9 am-1 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-4 pm</Time></Hours> 
+		<Address>2411 PINEBROOK AVENUE</Address>
+		<City>KENTLAND</City>
+		<Zip>20785</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Kentland_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Regulation Soccer Field</Amenity> <Amenity>Basketball, Full Court</Amenity> <Amenity>Softball Diamond, Lighted</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Golf Practice Range</Amenity> <Amenity>Football Field, Lighted</Amenity> <Amenity>Golf, Driving Range</Amenity> <Amenity>Basketball, Full Court, Lighted</Amenity> <Amenity>Fitness Room</Amenity> <Amenity>Outdoor Tennis Court, Lighted</Amenity> <Amenity>Golf, Putting Green</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity> <Amenity>Lake/Pond, Recreational</Amenity> <Amenity>Picnic Area</Amenity> <Amenity>Picnic Shelter</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Rental Facility</Amenity> <Amenity>Game Room</Amenity> <Amenity>Meeting Room</Amenity> <Amenity>Pre-School Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.9140455</Latitude><Longitude>-76.87786119999998</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>O60</Park_ID>
+		<Park_Name>Lake Arbor Community Park School Center</Park_Name>
+		<Phone>301-333-6561</Phone> 
+		<Hours>
+			<Time>Mondays &amp; Wednesdays: 7 am-10 pm</Time>
+			<Time>Tuesdays &amp; Thursdays:7 am-9 pm</Time>
+			<Time>Fridays: 7 am-7 pm; Xtreme Teens only: 7-10 pm </Time>
+			<Time>Saturdays: 9 am-5 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-5 pm</Time></Hours> 
+		<Address>10100 LAKE ARBOR WAY</Address>
+		<City>MITCHELLVILLE</City>
+		<Zip>20721</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Lake_Arbor_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Arts and Crafts Room</Amenity> <Amenity>Dance Room</Amenity> <Amenity>Kitchen</Amenity> <Amenity>Multi-Purpose Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.9413889</Latitude><Longitude>-76.8136111</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>S58</Park_ID>
+		<Park_Name>Langley Park Community Center</Park_Name>
+		<Phone>301-445-4508</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 9 am-9 pm</Time>
+			<Time>Fridays: 9 am-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 10 am-4 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-5 pm </Time></Hours> 
+		<Address>1500 MERRIMAC DRIVE</Address>
+		<City>HYATTSVILLE (ADELPHI)</City>
+		<Zip>20783</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Langley_Park_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Senior Activity Center</Amenity> <Amenity>Rental Facility</Amenity> <Amenity>Kitchen</Amenity> <Amenity>Classroom</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Arts and Crafts Room</Amenity> <Amenity>Pre-School Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>39.0031656</Latitude><Longitude>-76.97192000000001</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>V70</Park_ID>
+		<Park_Name>Largo/Perrywood/Kettering Community Park School Center</Park_Name>
+		<Phone>301-390-8390</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 7 am-10 pm </Time>
+			<Time>Fridays: 7 am-7 pm, Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-3 pm, Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-5 pm</Time></Hours> 
+		<Address>431 WATKINS PARK DRIVE</Address>
+		<City>UPPER MARLBORO</City>
+		<Zip>20774</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Largo_Kettering_Perrywood_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Football Field</Amenity> <Amenity>Basketball, Full Court</Amenity> <Amenity>Softball</Amenity> <Amenity>Outdoor Tennis Court</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity> <Amenity>Trails</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Multi-Purpose Room</Amenity> <Amenity>Arts and Crafts Room</Amenity> <Amenity>Computer Lab</Amenity> <Amenity>Classroom</Amenity> <Amenity>Music Room</Amenity> <Amenity>Classroom</Amenity> <Amenity>Kitchen</Amenity> <Amenity>Pre-School Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.8682133</Latitude><Longitude>-76.79135580000002</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>Q66</Park_ID>
+		<Park_Name>Marlow Heights Community Center Park</Park_Name>
+		<Phone>301-423-0505</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 8 am-9 pm</Time>
+			<Time>Fridays: 8 am-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 8 am-3 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 11 am-3 pm</Time></Hours> 
+		<Address>2800 SAINT Clair DRIVE</Address>
+		<City>MARLOW HEIGHTS</City>
+		<Zip>20748</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Marlow_Heights_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Outdoor Tennis Court, Lighted</Amenity> <Amenity>Gymnasium</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity> <Amenity>Picnic Area</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Recreation Center</Amenity> <Amenity>Game Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.8183115</Latitude><Longitude>-76.95386389999999</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>N58</Park_ID>
+		<Park_Name>North Brentwood Community Center Park</Park_Name>
+		<Phone>301-864-0756</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 2-9 pm</Time>
+			<Time>Fridays: 2-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 10 am-3 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>4012 WEBSTER STREET</Address>
+		<City>NORTH BRENTWOOD</City>
+		<Zip>20722</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/North_Brentwood_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Outdoor Tennis Court, Lighted</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Game Room</Amenity> <Amenity>Classroom</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.943513</Latitude><Longitude>-76.9519421</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P62</Park_ID>
+		<Park_Name>Oakcrest Community Park School Center</Park_Name>
+		<Phone>301-736-5355</Phone> 
+		<Hours>
+			<Time>Mondays &amp; Tuesdays: 12 noon-9 pm</Time>
+			<Time>Wednesdays &amp; Thursdays: 9 am-9 pm</Time>
+			<Time>Fridays: 12 pm-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-3 pm; Xtreme Teens only: 7-10 pm </Time></Hours> 
+		<Address>1300 CAPITOL HEIGHTS BLVD</Address>
+		<City>CAPITOL HEIGHTS</City>
+		<Zip>20743</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Oakcrest_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Basketball, Full Court</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Outdoor Tennis Court</Amenity> <Amenity>Softball Diamond</Amenity> <Amenity>Football/Soccer Combination Field</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Art Studio</Amenity> <Amenity>Classroom</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Dance Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.8699949</Latitude><Longitude>-76.92019729999998</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P63</Park_ID>
+		<Park_Name>Palmer Park Community Center Park</Park_Name>
+		<Phone>301-773-5665</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 2-9 pm</Time>
+			<Time>Fridays: 2-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-3 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-4 pm</Time></Hours> 
+		<Address>7720 BARLOWE ROAD</Address>
+		<City>PALMER PARK</City>
+		<Zip>20785</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Palmer_Park_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Football/Soccer Combination Field, Lighted</Amenity> <Amenity>Basketball, Full Court, Lighted</Amenity> <Amenity>Softball Diamond, Lighted</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Outdoor Tennis Court, Lighted</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Picnic Area</Amenity> <Amenity>Playground</Amenity> <Amenity>Horseshoe Pit</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.92094489999999</Latitude><Longitude>-76.87163900000002</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>R20</Park_ID>
+		<Park_Name>Patuxent Community Center</Park_Name>
+		<Phone>301-780-7577</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 1:30-9 pm</Time>
+			<Time>Fridays: 1:30-7 pm; Xtreme Teens only: 7-10 pm </Time>
+			<Time>Saturdays: 9 am-2 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>4410 BISHOPMILL DRIVE</Address>
+		<City>UPPER MARLBORO</City>
+		<Zip>20772</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Patuxent_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Multi-Purpose Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.8159473</Latitude><Longitude>-76.74969090000002</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P64</Park_ID>
+		<Park_Name>Peppermill Village Community Center Park</Park_Name>
+		<Phone>301-350-8410</Phone> 
+		<Hours>
+			<Time>Mondays &amp; Wednesdays: 10 am-9 pm</Time>
+			<Time>Tuesdays &amp; Thursdays: 12 noon-9 pm</Time>
+			<Time>Fridays: 12 noon-7 pm; Xtreme Teens only: 7-10 pm </Time>
+			<Time>Saturdays: 9 am-2 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>610 HILL ROAD</Address>
+		<City>SEAT PLEASANT</City>
+		<Zip>20743</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Peppermill_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Basketball, Full Court</Amenity> <Amenity>Fitness Cluster</Amenity> <Amenity>Outdoor Tennis Court</Amenity> <Amenity>Softball Diamond</Amenity> <Amenity>Football/Soccer Combination Field, Lighted</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Picnic Area</Amenity> <Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Game Room</Amenity> <Amenity>Meeting Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.8962231</Latitude><Longitude>-76.90663990000002</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>Q72</Park_ID>
+		<Park_Name>Potomac Landing Community Center Park</Park_Name>
+		<Phone>301-292-9191</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 1:30-10 pm</Time>
+			<Time>Fridays: 1:30-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-5 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-4 pm</Time></Hours> 
+		<Address>12500 FORT WASHINGTON ROAD</Address>
+		<City>FORT WASHINGTON</City>
+		<Zip>20744</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Potomac_Landing_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Football/Soccer Combination Field</Amenity> <Amenity>Softball Diamond</Amenity> <Amenity>Gymnasium</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Classroom</Amenity> <Amenity>Game Room</Amenity> <Amenity>Multi-Purpose Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.718667</Latitude><Longitude>-77.00397599999997</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>N59</Park_ID>
+		<Park_Name>Prince George's Plaza Community Center</Park_Name>
+		<Phone>301-864-1611</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 7 am-9 pm</Time>
+			<Time>Fridays: 7 am-4 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-3 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>6600 ADELPHI ROAD</Address>
+		<City>HYATTSVILLE</City>
+		<Zip>20782</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Prince_George_s_Plaza_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Kitchen</Amenity> <Amenity>Classroom</Amenity> <Amenity>Arts and Crafts Room</Amenity> <Amenity>Meeting Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.970432</Latitude><Longitude>-76.94973399999998</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>S10</Park_ID>
+		<Park_Name>Rollingcrest/Chillum Community Center Park</Park_Name>
+		<Phone>301-853-2005</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 8:30 am-9:30 pm</Time>
+			<Time>Fridays: 8:30 am-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 8:30 am-5 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-3 pm</Time></Hours> 
+		<Address>6120 SARGENT ROAD</Address>
+		<City>CHILLUM</City>
+		<Zip>20782</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Rollingcrest-Chillum_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Pool, Indoor</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Picnic Shelter</Amenity> <Amenity>Playground</Amenity> <Amenity>Picnic Area</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Multi-Purpose Room</Amenity> <Amenity>Pre-School Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.96372179999999</Latitude><Longitude>-76.99080930000002</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P67</Park_ID>
+		<Park_Name>Seat Pleasant Community Center</Park_Name>
+		<Phone>301-773-6685</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 9 am-9 pm </Time>
+			<Time>Fridays: 9 am-7 pm, Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-5 pm, Xtreme Teens only: 7-10 pm </Time>
+			<Time>Sundays: 12 noon-4 pm </Time></Hours> 
+		<Address>5720 ADDISON ROAD</Address>
+		<City>SEAT PLEASANT</City>
+		<Zip>20743</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Seat_Pleasant_Activity_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Senior Activity Center</Amenity> <Amenity>Meeting Room</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Game Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.8969732</Latitude><Longitude>-76.90888480000001</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>O65</Park_ID>
+		<Park_Name>South Bowie Community Center Park</Park_Name>
+		<Phone>301-249-1622</Phone> 
+		<Hours>
+			<Time>Mondays &amp; Wednesdays: 7 am-9 pm</Time>
+			<Time>Tuesdays: 8 am-9 pm</Time>
+			<Time>Thursdays: 8 am-6 pm; Xtreme Teens only: 6-9 pm</Time>
+			<Time>Fridays: 7 am-7 pm; Xtreme Teens only: 7-10 pm </Time>
+			<Time>Saturdays: 7 am-5 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>1717 PITTSFIELD LANE</Address>
+		<City>BOWIE</City>
+		<Zip>20716</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/South_Bowie_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Softball Diamond</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Softball W/ Football Soccer Overlay</Amenity> <Amenity>Outdoor Tennis Court</Amenity> <Amenity>Fitness Room</Amenity> <Amenity>Racquetball Court</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Dance Room</Amenity> <Amenity>Pre-School Room</Amenity> <Amenity>Classroom</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.9139665</Latitude><Longitude>-76.71971969999998</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>Q70</Park_ID>
+		<Park_Name>Stephen Decatur Community Center Park</Park_Name>
+		<Phone>301-297-4648</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 1:30-9 pm</Time>
+			<Time>Fridays: 1:30-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 8:30 am-4 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>8200 PINEWOOD DRIVE</Address>
+		<City>CLINTON</City>
+		<Zip>20735</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Stephen_Decatur_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Baseball Diamond</Amenity> <Amenity>Basketball, Full Court</Amenity> <Amenity>Softball W/ Football Soccer Overlay</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Outdoor Tennis Court</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Classroom</Amenity> <Amenity>Dance Room</Amenity> <Amenity>Lounge</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Meeting Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.776953</Latitude><Longitude>-76.90846999999997</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P50</Park_ID>
+		<Park_Name>Suitland Community Park School Center</Park_Name>
+		<Phone>301-736-3518</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 5:30 am-9 pm</Time>
+			<Time>Fridays: 6 am-7 pm; Xtreme Teens only: 7-10 pm </Time>
+			<Time>Saturdays: 9 am-4 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-4 pm</Time></Hours> 
+		<Address>5600 REGENCY LANE</Address>
+		<City>FORESTVILLE</City>
+		<Zip>20747</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Suitland_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Art Studio</Amenity> <Amenity>Meeting Room</Amenity> <Amenity>Multi-Purpose Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.845516</Latitude><Longitude>-76.90705100000002</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>Q67</Park_ID>
+		<Park_Name>Temple Hills Community Center Park</Park_Name>
+		<Phone>301-894-6616</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 7 am-9:30 pm</Time>
+			<Time>Fridays: 7 am-6:45 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 8 am-6:45 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-5 pm</Time></Hours> 
+		<Address>5300 TEMPLE HILL ROAD</Address>
+		<City>TEMPLE HILLS</City>
+		<Zip>20748</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Temple_Hills_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Outdoor Tennis Court</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Horseshoe Pit</Amenity> <Amenity>Playground</Amenity> <Amenity>Picnic Area</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Multi-Purpose Room</Amenity> <Amenity>Kitchen</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.813951</Latitude><Longitude>-76.936688</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>Q68</Park_ID>
+		<Park_Name>Tucker Road Community Center Park</Park_Name>
+		<Phone>301-248-4404</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 7 am-9 pm</Time>
+			<Time>Fridays: 7 am-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-5 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-6 pm</Time></Hours> 
+		<Address>1771 TUCKER ROAD</Address>
+		<City>FORT WASHINGTON</City>
+		<Zip>20744</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Tucker_Road_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Outdoor Tennis Court, Lighted</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Volleyball Court, Sand</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Horseshoe Pit</Amenity> <Amenity>Playground</Amenity> <Amenity>Picnic Area</Amenity> <Amenity>Picnic Shelter</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Computer Lab</Amenity> <Amenity>Classroom</Amenity> <Amenity>Kitchen</Amenity> <Amenity>Meeting Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.7073379</Latitude><Longitude>-77.02303130000001</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>R64</Park_ID>
+		<Park_Name>Upper Marlboro Community Center Park</Park_Name>
+		<Phone>301-627-2828</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 6:30 am-10 pm</Time>
+			<Time>Fridays: 6:30 am-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-5 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-4 pm</Time></Hours> 
+		<Address>5400 MARLBORO RACE TRACK ROAD</Address>
+		<City>UPPER MARLBORO</City>
+		<Zip>20772</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Upper_Marlboro_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Outdoor Tennis Court</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Racquetball</Amenity> <Amenity>Softball Diamond</Amenity> <Amenity>Football/Soccer Combination Field</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Outdoor_Leisure><Amenity>Pavillion</Amenity> <Amenity>Playground</Amenity></Outdoor_Leisure>
+			<Indoor_Resources><Amenity>Classroom</Amenity> <Amenity>Meeting Room</Amenity> <Amenity>Pre-School Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>38.8159473</Latitude><Longitude>-76.74969090000002</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>M26</Park_ID>
+		<Park_Name>Vansville School Community Center</Park_Name>
+		<Phone>301-937-6621</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 2 pm-9 pm</Time>
+			<Time>Fridays: 2 pm-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 9 am-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: 12 noon-3 pm</Time></Hours> 
+		<Address>6813 AMMENDALE ROAD</Address>
+		<City>BELTSVILLE</City>
+		<Zip>20705</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/Vansville_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Gymnasium</Amenity> <Amenity>Fitness Room</Amenity></Athletics>
+			<Indoor_Resources><Amenity>Music Room</Amenity> <Amenity>Classroom</Amenity> <Amenity>Multi-Purpose Room</Amenity></Indoor_Resources>
+		</Amenities>
+		<Coordinates><Latitude>39.046969</Latitude><Longitude>-76.88755700000002</Longitude></Coordinates>
+	</Park>
+	<Park>
+		<Park_ID>P38</Park_ID>
+		<Park_Name>William Beanes Community Center Park</Park_Name>
+		<Phone>301-568-7719</Phone> 
+		<Hours>
+			<Time>Mondays-Thursdays: 1:30-9:30 pm</Time>
+			<Time>Fridays: 1:30-7 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Saturdays: 10 am-4 pm; Xtreme Teens only: 7-10 pm</Time>
+			<Time>Sundays: CLOSED</Time></Hours> 
+		<Address>5109 BELGREEN STREET</Address>
+		<City>SUITLAND</City>
+		<Zip>20746</Zip>
+		<URL>http://www.pgparks.com/Things_To_Do/Community_Centers/William_Beanes_Community_Center.htm</URL>
+		<Amenities>
+			<Athletics><Amenity>Youth Soccer Field</Amenity> <Amenity>Gymnasium</Amenity> <Amenity>Outdoor Tennis Court</Amenity> <Amenity>Softball Diamond</Amenity></Athletics>
+		</Amenities>
+		<Coordinates><Latitude>38.842247</Latitude><Longitude>-76.91898300000003</Longitude></Coordinates>
+	</Park>
+</Root>
